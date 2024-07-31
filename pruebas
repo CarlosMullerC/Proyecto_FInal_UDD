@@ -1,0 +1,4 @@
+import json
+
+# Ejemplo de impresión del JSON antes de enviarlo
+print(json.dumps(data_values, indent=4))
